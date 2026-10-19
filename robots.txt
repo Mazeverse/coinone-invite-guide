@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://coinone-invite-guide.vercel.app/sitemap.xml

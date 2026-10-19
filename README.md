@@ -10,3 +10,9 @@
 
 ## 주의
 2025년 4월 18일 코인원 공지(https://coinone.co.kr/info/notice/3943)의 리워드 조건을 참고했습니다. 현행 정책은 별도로 확인해야 합니다.
+
+## SEO v2
+- Canonical / Open Graph URL: https://coinone-invite-guide.vercel.app/
+- Naver verification meta tag added
+- sitemap.xml and robots.txt configured
+- 배포 후 네이버 서치어드바이저에서 소유권 확인 및 사이트맵 제출
